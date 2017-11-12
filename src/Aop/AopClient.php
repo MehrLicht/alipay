@@ -1,7 +1,6 @@
 <?php
 namespace Alipay\Aop;
-//函数库冲突
-//require_once 'AopEncrypt.php';
+
 require_once __DIR__.'../../AopSdk.php';
 
 class AopClient {
