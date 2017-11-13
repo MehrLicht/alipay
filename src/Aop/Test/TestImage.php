@@ -1,5 +1,5 @@
 <?php
-namespace Alipay\Aop\test;
+namespace Alipay\Aop\Test;
 use Alipay\Aop\AlipayMobilePublicMultiMediaClient;
 /**
  * Alipay.com Inc.
