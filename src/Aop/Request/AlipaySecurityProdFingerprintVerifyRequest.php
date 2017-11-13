@@ -1,4 +1,4 @@
-<?php namespace Alipay\Aop\Request;
+<?php namespace Alipay\Request;
 /**
  * ALIPAY API: alipay.security.prod.fingerprint.verify request
  *

@@ -1,4 +1,4 @@
-<?php namespace Alipay\Aop\Request;
+<?php namespace Alipay\Request;
 /**
  * ALIPAY API: alipay.ebpp.bill.add request
  *

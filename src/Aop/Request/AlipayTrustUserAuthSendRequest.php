@@ -1,4 +1,4 @@
-<?php namespace Alipay\Aop\Request;
+<?php namespace Alipay\Request;
 /**
  * ALIPAY API: alipay.trust.user.auth.send request
  *

@@ -1,5 +1,5 @@
 <?php
-namespace Alipay\Aop;
+namespace Alipay;
 /**
  * Created by PhpStorm.
  * User: jiehua

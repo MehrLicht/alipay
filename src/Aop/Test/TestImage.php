@@ -1,6 +1,6 @@
 <?php
-namespace Alipay\Aop\Test;
-use Alipay\Aop\AlipayMobilePublicMultiMediaClient;
+namespace Alipay\Test;
+use Alipay\AlipayMobilePublicMultiMediaClient;
 /**
  * Alipay.com Inc.
  * Copyright (c) 2004-2014 All Rights Reserved.
