@@ -1,4 +1,4 @@
-<?php namespace Alipay\Request;
+<?php namespace Alipay\request;
 /**
  * ALIPAY API: alipay.open.public.partner.subscribe.sync request
  *

@@ -1,4 +1,4 @@
-<?php namespace Alipay\Request;
+<?php namespace Alipay\request;
 /**
  * ALIPAY API: koubei.member.data.oauth.query request
  *

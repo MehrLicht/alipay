@@ -1,5 +1,5 @@
 <?php
-namespace Alipay\Test;
+namespace Alipay\test;
 use Alipay\AlipayMobilePublicMultiMediaClient;
 /**
  * Alipay.com Inc.

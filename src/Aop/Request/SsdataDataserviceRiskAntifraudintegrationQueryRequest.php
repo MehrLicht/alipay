@@ -1,4 +1,4 @@
-<?php namespace Alipay\Request;
+<?php namespace Alipay\request;
 /**
  * ALIPAY API: ssdata.dataservice.risk.antifraudintegration.query request
  *
