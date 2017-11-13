@@ -1,4 +1,4 @@
-<?php namespace Alipay\request;
+<?php namespace Alipay\aop\request;
 /**
  * ALIPAY API: alipay.offline.market.shop.applyorder.cancel request
  *

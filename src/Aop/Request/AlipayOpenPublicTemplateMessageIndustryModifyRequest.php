@@ -1,4 +1,4 @@
-<?php namespace Alipay\request;
+<?php namespace Alipay\aop\request;
 /**
  * ALIPAY API: alipay.open.public.template.message.industry.modify request
  *

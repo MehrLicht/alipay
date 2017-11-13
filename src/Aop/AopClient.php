@@ -1,5 +1,5 @@
 <?php
-namespace Alipay;
+namespace Alipay\aop;
 
 require_once __DIR__.'../../AopSdk.php';
 

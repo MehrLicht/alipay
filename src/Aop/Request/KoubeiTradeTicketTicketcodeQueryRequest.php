@@ -1,4 +1,4 @@
-<?php namespace Alipay\request;
+<?php namespace Alipay\aop\request;
 /**
  * ALIPAY API: koubei.trade.ticket.ticketcode.query request
  *

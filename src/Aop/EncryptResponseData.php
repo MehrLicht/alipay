@@ -1,5 +1,5 @@
 <?php
-namespace Alipay;
+namespace Alipay\aop;
 /**
  *  TODO 补充说明 
  *

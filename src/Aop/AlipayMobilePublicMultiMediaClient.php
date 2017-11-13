@@ -1,6 +1,6 @@
 <?php
-namespace Alipay;
-use Alipay\AlipayMobilePublicMultiMediaExecute;
+namespace Alipay\aop;
+use Alipay\aop\AlipayMobilePublicMultiMediaExecute;
 /**
  * 多媒体文件客户端
  * @author yikai.hu
