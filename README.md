@@ -1,2 +1,2 @@
 # alipay
-alipay autoload
+原生SDK autoload
